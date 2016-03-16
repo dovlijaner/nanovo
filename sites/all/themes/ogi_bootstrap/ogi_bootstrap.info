@@ -1,0 +1,5 @@
+name = ogi_bootstrap
+description = Pokusaj zajeba!
+core = 7.x
+base theme = bootstrap
+stylesheets[all][] = css/style.css

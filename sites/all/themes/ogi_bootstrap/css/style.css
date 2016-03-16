@@ -1,0 +1,324 @@
+body.ogi {
+  font-size: 16px;
+}
+body.ogi a {
+  color: #FF9800;
+}
+/* body.ogi .main-container{
+	margin-top:120px;
+} */
+body.ogi .container {
+  width: 1250px;
+  padding-left: 5px;
+}
+body.ogi .navbar-brand {
+  font-size: 40px;
+}
+body.ogi .navbar-nav {
+  font-size: 16px;
+  font-weight: bold;
+}
+body.ogi .menu.nav.navbar-nav.secondary {
+  font-size: 14px;
+}
+body.ogi .navbar-fixed-top {
+  font-size: 14px;
+  font-weight: 500;
+}
+body.ogi .field-items {
+  font-size: 16px;
+}
+body.ogi .views-field.views-field-field-datum-za-news {
+  width: 115px;
+}
+body.ogi .footer {
+  background-color: #000;
+  width: 100%;
+  font-size: 14px;
+  color: #999;
+  padding: 20px 0px 10px 0px;
+}
+body.ogi .footer h2 {
+  margin-top: 0px;
+}
+body.ogi .pretraga {
+  width: 250px;
+  float: right;
+}
+body.ogi .btn.btn-primary {
+  background-color: #FF9800;
+  border-color: #FF9800;
+}
+body.ogi .view-members .view-content .table-responsive:first-child table caption {
+  display: none;
+}
+body.ogi .img-responsive {
+  max-width: none;
+}
+body.ogi .views-field-field-picture-za-members {
+  width: 262px;
+  height: 179px;
+  vertical-align: top;
+}
+body.ogi .secondary .dropdown-toggle {
+  background-color: #990100;
+  color: #EAEAEA;
+}
+body.ogi .secondary .dropdown-toggle:hover,
+body.ogi .secondary .open .dropdown-toggle {
+  background-color: #BF3333;
+}
+body.ogi div.navbar-header a.logo img {
+  height: 50px;
+  display: none;
+}
+body.ogi div.navbar-header a.logo {
+  display: block;
+  width: 53px;
+  height: 53px;
+  background-image: url("http://localhost/ogi/sites/default/files/logo1.jpg");
+  background-size: cover;
+}
+body.ogi div.navbar-header a.logo:hover {
+  background-image: url("http://localhost/ogi/sites/default/files/logo2.jpg");
+}
+body.ogi .navbar {
+  border-bottom: 0px;
+  border: none;
+}
+body.ogi .navbar-btn {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+body.ogi .field-name-field-titula {
+  font-size: 14px;
+  font-style: italic;
+}
+body.ogi .field-name-body {
+  font-size: 16px;
+  margin-top: 15px;
+}
+body.ogi .views-field .views-field-title .field-content {
+  margin-top: 15px;
+}
+body.ogi .membertext {
+  width: 700px;
+}
+body.ogi .page-header {
+  position: center;
+}
+body.ogi .views-field-field-cv {
+  width: 80px;
+}
+body.ogi .views-field-field-email-za-members {
+  width: 100px;
+}
+body.ogi .navbar-inverse .navbar-nav > li > a {
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
+  /* skoro pa crna */
+  color: #F1F1F1;
+  /* boja fonta u glavnom mrniju */
+}
+body.ogi .navbar-inverse .secondary.navbar-nav > li > a {
+  display: block;
+  width: 53px;
+  height: 53px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: #990100;
+  color: #F1F1F1;
+}
+body.ogi .secondary .glyphicon {
+  font-size: x-large;
+}
+body.ogi .dropdown-menu > li > a {
+  color: black;
+}
+body.ogi .dropdown-menu > li > a:hover {
+  color: white;
+  background-color: #C7C7C7;
+}
+body.ogi .dropdown-menu .active-trail {
+  background-color: grey;
+  color: white;
+}
+body.ogi .navbar-inverse .secondary.navbar-nav > li > a:hover {
+  background-color: #BF3333;
+  border-bottom-color: #BF3333;
+  color: #F1F1F1;
+}
+body.ogi .navbar-inverse .navbar-nav > li > a:hover {
+  background-color: #DADADA;
+  border-bottom-color: #DADADA;
+  color: #404040;
+}
+body.ogi .navbar-inverse .navbar-nav > li.active > a {
+  background-color: #222222;
+  border-bottom-color: red;
+  color: #F1F1F1;
+}
+body.ogi .view-proba .views-field.views-field-title {
+  /* redni broj publikacije */
+  color: #777777;
+  font-size: 22px;
+  display: inline;
+}
+body.ogi .view-homework .views-field.views-field-title {
+  width: 450px;
+}
+body.ogi .views-field.views-field-field-file-proba,
+body.ogi .views-field-field-file-proba .field-content {
+  display: inline;
+}
+body.ogi .views-field-field-link-proba,
+body.ogi .views-field-field-link-proba .field-content {
+  display: inline;
+}
+body.ogi .view-lectures-4397 .views-field.views-field-title {
+  display: block;
+}
+body.ogi .views-field.views-field-field-file-1,
+body.ogi .views-field.views-field-field-file-1,
+body.ogi .views-field.views-field-field-file-2 {
+  width: 300px;
+  text-align: left;
+}
+body.ogi .view-exams-6353 .views-field.views-field-field-file-1 {
+  width: 750px;
+}
+body.ogi .breadcrumb > li > a {
+  color: #ADADAD;
+}
+body.ogi .breadcrumb .active {
+  color: A0A0A0;
+}
+body.ogi .lecturenotes {
+  color: #337AB7;
+  margin-left: 15%;
+  font-size: 22px;
+}
+body.ogi .eLecture {
+  color: #337AB7;
+  margin-left: 15%;
+  font-size: 22px;
+}
+body.ogi .view-lectures-3331-index .view-grouping-content h3,
+body.ogi .view-lectures-3331-index .view-grouping-content div {
+  display: inline;
+}
+body.ogi .view-lectures-3331-index .view-grouping-content {
+  padding-top: 5px;
+  padding-bottom: 25px;
+}
+body.ogi .view-lectures-3331-index .view-content .view-grouping-header {
+  font-size: 22px;
+  font-style: bold;
+}
+body.ogi .view-problems-6353-2009 .views-field.views-field-title {
+  display: block;
+}
+body.ogi .view-grouping-content .views-field-edit-node {
+  color: orange;
+}
+body.ogi .breadcrumb {
+  margin-top: -5px;
+  background-color: transparent;
+  margin-left: -15px;
+}
+body.ogi .breadcrumb > li + li::before {
+  color: #C3C3C3;
+  content: "\25BA";
+  /* "\272D" petokraka */
+}
+/* body.ogi .views-field-field-video-002 {
+	background-color:black;
+	
+} */
+body.ogi .ds-1col .node-home .view-mode-full .clearfix a {
+  color: #337ab7;
+  padding-left: 30%;
+}
+body.ogi .ogijev-article-body .ping a {
+  /* meni u "teaching" */
+  color: white;
+  background-color: grey;
+  padding: 14px;
+}
+body.ogi .ogijev-article-body .ping a:hover {
+  /* meni u "teaching" */
+  color: black;
+  text-decoration: none;
+  background-color: orange;
+  padding: 14px;
+}
+body.ogi .view-chem4397-lectures .views-field.views-field-title {
+  color: grey;
+}
+body.ogi .chem4397-ppt {
+  color: green;
+}
+body.ogi .view-chem4397-lectures .views-field.views-field-field-file-1 {
+  width: 70px;
+}
+body.ogi .view-exams-4397 .views-field.views-field-field-file-2 {
+  width: 300px;
+  text-align: left;
+}
+body.ogi .view-homework .views-field.views-field-title {
+  color: grey;
+  width: 300px;
+}
+body.ogi .view-homework .views-field.views-field-field-file-2 {
+  width: 460px;
+  text-align: left;
+}
+body.ogi .views-field.views-field-edit-node {
+  vertical-align: middle;
+  text-align: right;
+}
+body.ogi .views-field.views-field-edit-node a {
+  font-size: 18px;
+  text-align: right;
+  color: white;
+  background-color: red;
+  padding: 2px;
+  border-radius: 4px;
+}
+body.ogi .addlink {
+  font-size: 24px;
+  color: white;
+  padding: 2px;
+  background-color: red;
+  border-radius: 6px;
+  text-decoration: none;
+}
+body.ogi .view-chem3331-lectures-notes .view-grouping-content {
+  display: inline-block;
+  margin-left: 50px;
+}
+body.ogi .view-chem3331-lectures-notes .view-grouping-header {
+  display: inline;
+}
+body.ogi .view-lectures-3331-videolinkovi .row-1.row-first.row-last a {
+  /* video menu */
+  background-color: grey;
+  color: black;
+  padding: 15px;
+}
+body.ogi .view-lectures-3331-videolinkovi .view-content h3 {
+  margin-bottom: 40px;
+}
+body.ogi .view-lectures-3331-videolinkovi .views-view-grid.cols-6 {
+  margin-bottom: 45px;
+}
+body.ogi .field.field-name-field-file.field-type-file.field-label-hidden .field-item,
+body.ogi .field.field-name-field-link.field-type-link-field.field-label-hidden .field-item,
+body.ogi .field.field-name-field-link-za-database-search-en.field-type-link-field.field-label-hidden .field-item,
+body.ogi .field.field-name-field-file-za-links.field-type-file.field-label-hidden .field-item {
+  font-size: 18px;
+  padding: 5px 0px 5px 0px;
+}
+body.ogi .field-type-file img.file-icon {
+  display: none;
+}
